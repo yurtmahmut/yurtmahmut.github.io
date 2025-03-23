@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Mahmut Yurt
-description: subtitle | Stanford University | motto
+description: PhD candidate at Stanford University 
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "" #/gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: myurt@stanford.edu#
 
 # Pagination
 paginate: 4
@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: "#"
 stackoverflow: "#"
-github: "#"
+github: "yurtmahmut"
 researchgate: "#"
 orcid: "#"
 quora: "#"
@@ -69,4 +69,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-email-protect
-  - jekyll-target-blank
+  # - jekyll-target-blank
