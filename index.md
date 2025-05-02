@@ -9,7 +9,7 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-  I am PhD candidate in Electrical Engineering at Stanford University. I work with Prof. John Pauly, Shreyas Vasanawala and Kawin Setsompop. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University, where I worked with Prof. Tolga Cukur. 
+  I am PhD candidate in Electrical Engineering at Stanford University. I work with Prof. John Pauly, Shreyas Vasanawala and Kawin Setsompop. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University, where I worked with Prof. Tolga Cukur.  
   </p>
 
 
