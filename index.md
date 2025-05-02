@@ -9,8 +9,7 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a PhD candidate in Electrical Engineering at <a href="https://mrsrl.sites.stanford.edu/" target="_blank">Stanford University</a>, working with Prof. John Pauly. 
-I am third-year PhD Student in Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly. I also work closely with Prof. Kawin Setsompop, Prof. Shreyas Vasanawala, and Prof. Akshay Chaudhari. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University in Turkiye, where I worked with Prof. Tolga Cukur. My research focuses on synergistic combination of computer vision and medical imaging to advance healthcare technologies by developing novel deep learning models for accelerated multi-contrast MRI synthesis, reconstruction and super-resolution as well as for the foremost computer vision problems utilizing supervised and unsupervised learning techniques.
+  I am PhD candidate in Electrical Engineering at Stanford University. I work with Prof. John Pauly, Shreyas Vasanawala and Kawin Setsompop. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University, where I worked with Prof. Tolga Cukur. 
   </p>
 
 
