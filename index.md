@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: profile.jpg
 published: true
 ---
