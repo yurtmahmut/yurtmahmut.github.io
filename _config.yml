@@ -12,17 +12,6 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-# Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "yurtmahmut"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
-
 # Markdown
 highlighter: rouge
 markdown: kramdown
@@ -70,3 +59,7 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   # - jekyll-target-blank
+
+main-nav:
+  - title: "shortCV"
+    url: "/assets/pdf/mahmut-yurt-resume.pdf"
