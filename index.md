@@ -9,22 +9,10 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-      I am a PhD candidate at Stanford University and student researcher at Google. 
+      I am a PhD candidate at Stanford University working with Prof. John Pauly. I am also a student researcher at Google. I was a software engineering intern at Google, and a research intern at Bosch AI. 
   </p>
 
 
-
-  <div class="research-topics">
-    <h3>Research Topics</h3>
-    <div class="topic-grid">
-      <div class="topic-item">Generative AI</div>
-      <div class="topic-item">Diffusion models</div>
-      <div class="topic-item">Foundation models</div>
-      <div class="topic-item">Uncertainty estimation</div>
-      <div class="topic-item">Medical imaging</div>
-      <div class="topic-item">Self-driving cars</div>
-    </div>
-  </div>
 
 
 
